@@ -1,0 +1,49 @@
+img{
+    width: 400px;
+}
+input{
+    width: 100%;
+}
+iframe{
+    width: 100%;
+}
+h2{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+h3{
+    color: green;
+}
+input{
+    border-color: black;
+
+}
+button{
+    background-color: green;
+    width: 20%;
+}
+table{
+    
+    width: 100%;
+     border-collapse: collapse;
+}
+
+
+th {
+    border: 1px solid white;
+    text-align: center;
+    font-size: 19px;
+    background-color: rgb(1, 15, 15);
+    color: white;
+}
+td{
+    border: 1px solid white;
+    text-align: center;
+    font-size: 19px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.nn{
+    background-color: red;
+}
